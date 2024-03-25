@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Jaldi&display=swap');
+
+body {
+  font-family: 'Jaldi', sans-serif; 
+  background-color: #f2f5f7; 
+  color: rgb(128, 0, 128); 
+  margin: 0; 
+  padding: 0; 
+}
+
+main {
+  margin: 0 auto; 
+  width: 80%;
+}
+
+h1, h2, h3, p, ul, ol, section, form, label {
+  text-align: left;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  width: 30%; 
+  height: auto;
+  border-radius: 10px;
+}
+
+textarea {
+  resize: none; 
+}
+
+h2, h3 {
+  font-size: 1.5em; 
+}
+
+p {
+  font-size: 1em; 
+  margin-bottom: 5px; 
+}
+
+ul, ol {
+  margin-left: 0; 
+  padding-left: 0; 
+}
+
+nav {
+  display: flex; 
+  justify-content: center; 
+  margin-bottom: 10px;
+}
+
+nav ul {
+  display: flex; 
+  list-style: none; 
+  padding: 0; 
+}
+
+nav li {
+  margin: 0 10px; 
+}
+
+nav a {
+  text-decoration: underline; 
+}
+
+footer {
+  text-align: center;
+}
