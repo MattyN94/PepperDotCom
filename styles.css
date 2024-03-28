@@ -2,10 +2,13 @@
 
 body {
   font-family: 'Jaldi', sans-serif; 
-  background-image: url(background.jpg);
-  background-size: cover;
   margin: 0; 
   padding: 0; 
+  background-image: url('background.jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  backdrop-filter: blur(2px);
 }
 
 main {
