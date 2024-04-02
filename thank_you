@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Thank You</title>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Thanks so much for submitting your story!</h1>
+  </header>
+  <main>
+    <p>Pending moderation, your submission will be featured on the Your Stories section soon.</p>
+    <p>Head back to the homepage <a href="index.html">here</a> or check out other stories <a href="submit_story.html">here</a>.</p>
+  </main>
+  <footer>
+    <p>No Copyright; budding coders have the Right to Copy my idea. And source code, if you want it.</p>
+  </footer>
+</body>
+</html>
