@@ -71,5 +71,6 @@ nav a {
 }
 
 footer {
-  text-align: center;
+  text-align: left;
+  text-size: 0.5em;
 }
