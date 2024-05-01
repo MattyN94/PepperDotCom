@@ -11,16 +11,11 @@ body {
   backdrop-filter: blur(2px);
 }
 
-header, nav, footer {
-  width: 100%;
-  box-sizing: border-box;
-  padding: 20px;
-}
-
 header {
   display: flex;
   justify-content: space-between;
   align-items: flex-start;
+  padding: 20px;
 }
 
 h1 {
@@ -42,7 +37,7 @@ nav a {
 }
 
 main {
-  margin: 0 auto;
+  margin: 0 auto; 
   width: 80%;
 }
 
